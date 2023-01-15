@@ -391,5 +391,8 @@ module.exports = {
         }),
       ],
     },
+    solid: {
+      typescript: true
+    }
   },
 };

@@ -2281,6 +2281,7 @@ __metadata:
   dependencies:
     solid-js: ^1.5.7
     solid-styled-components: ^0.27.6
+    typescript: ^4
     vite: ^3.0.4
     vite-plugin-solid: ^2.2.6
   peerDependencies:
